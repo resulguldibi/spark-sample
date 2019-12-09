@@ -1,0 +1,2 @@
+test reading text file to rdd
+test reading json file to rdd
