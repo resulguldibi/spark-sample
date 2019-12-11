@@ -3,7 +3,7 @@
  This sample contains examples about apache spark rdd operation and integrations with kafka & cassandra.
 
 - change directory to spark-sample project directory. <br/>
-  cd <<spark-sample-directory>>
+  cd "spark-sample-directory"
 - start kafka, zookeeper and cassandra container. <br/>
   docker-compose up -d
 
